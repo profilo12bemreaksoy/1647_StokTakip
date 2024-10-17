@@ -1,0 +1,1 @@
+Normalde, size derste Google Drive’a atmadım dedim. Google Drive’a yüklediğimde, indirme sırasında durmuştu çünkü "paused" diyordu. Bu yüzden size atamadım dedim. Eve gittim, Google Drive’ı açtım ve Drive benim attığım şeyleri yedeklemiş. Stok takip programıydı. Bu yüzden, zamanında GitHub’a yükledim.
